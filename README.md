@@ -7,3 +7,4 @@ se subiran en la carpeta de Ejercicios
 
 - 🔗 [https://oregoom.com/python/abstraccion/](https://oregoom.com/python/abstraccion/ "www")
 - 🔗 [Python Object Oriented Programming](https://www.youtube.com/watch?v=IbMDCwVm63M "youtube")
+- 🔗 [Video Youtube Abstraccion](https://youtu.be/IbMDCwVm63M?t=2131 "youtube")
